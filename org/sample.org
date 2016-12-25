@@ -18,3 +18,4 @@
 ,  |-----------------+------------------------+------------|
 ,  | The Suit King   | 1000 E. Washington St. |        5.1 |
 ,  | Mr. Haberdasher | 259 Western Rd.        |        7.2 |
+

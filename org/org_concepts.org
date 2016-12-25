@@ -1,0 +1,4 @@
+* links
+link-structure : [[linkgoeshere][textdescriptionhere]\]    <-- remove the backslash of course
+use `http:` for web links, `file:` for local links
+use `, i l` in spacemacs to insert a new link
