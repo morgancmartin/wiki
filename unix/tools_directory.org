@@ -6,5 +6,7 @@ starting at the beginning of the file
 [[file:./tools/head.org][head]] show the first few lines of a file
 [[file:tools/tail.org][tail]] : show the last few lines of a file
 [[file:tools/ls.org][ls]] : use to list files and directories in current directory
+[[file:tools/ln.org][ln]] : use with -s option to create symlinks
+[[file:tools/grep.org][grep]] : used for searching the contents of files for a supplied pattern
 
 [[http:freeengineer.org/learnUNIXin10minutes.html][A good writeup of UNIX command basics]]
