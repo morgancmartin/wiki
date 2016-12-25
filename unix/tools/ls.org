@@ -1,0 +1,3 @@
+ls : use to list files and directories in current directory
+
+use `ls -d */` to only list directories in current directory
