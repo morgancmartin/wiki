@@ -1,0 +1,3 @@
+cat : outputs the contents of a file.
+
+Useful in conjunction with `>` for directing output into a file.

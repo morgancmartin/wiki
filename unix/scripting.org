@@ -1,0 +1,23 @@
+NOTE: You have created a script called `newscript` that accepts a file name
+and creates a script template with that name in the current directory. It even
+adds executable permissions to it, so all you have to do is edit the file and 
+run it.
+
+Create a file that looks like this:
+```
+  #!/bin/bash
+  # My first script
+
+  echo "Hello World!"
+```
+Then use `chmod +x {filename}` or `chmod 755 {filename}` to give you 
+execute permissions.
+
+To make a script available from anywhere, its directory must be added to PATH. 
+This can be done with the command `export PATH=$PATH:{directory}`. However,
+this only adds it to the path for the current bash session. To permanently
+add it, add the same command to your `.bash_profile`.
+
+If you've done this before, you should have a /bin directory located at 
+~/bin/ -- Just add your script in there and it will be accessible from 
+anywhere.

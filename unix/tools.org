@@ -1,0 +1,7 @@
+apropos : For finding unix tools pertaining to a particular concept.
+> : directs the output of the previous command into a desired file, 
+starting at the beginning of the file
+>> : appends the output of the previous command onto the end of a desired file.
+[[file:./tools/cat.org][cat]] : outputs the contents of a file.
+[[file:./tools/head.org][head]] show the first few lines of a file
+[[file:tools/tail.org][tail]] : show the last few lines of a file

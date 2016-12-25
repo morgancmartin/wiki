@@ -1,0 +1,20 @@
+* TODO Buy clothes for wedding                    :wedding:important:errands:
+,  SCHEDULED: <2010-12-01 Wed>
+,  :PROPERTIES:
+,  :estimated-cost: 100
+,  :END:
+,  [2010-11-17 Wed 12:22]
+
+,  I need to look spiffy for the big day!
+
+,   - [ ] Suit
+,   - [ ] Tie
+,   - [ ] Shoes
+,   - [ ] Hat
+
+,  Possible stores to visit:
+,  
+,  | Store           | Location               | Miles away |
+,  |-----------------+------------------------+------------|
+,  | The Suit King   | 1000 E. Washington St. |        5.1 |
+,  | Mr. Haberdasher | 259 Western Rd.        |        7.2 |
